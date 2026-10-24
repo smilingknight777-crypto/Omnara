@@ -376,6 +376,8 @@
         },
         "description": {
           "type": "string"
+        },"description": {
+          "type": "string"
         },
         "instruction": {
           "$ref": "#/$defs/AgentConfigSubagentInstructionSource"
